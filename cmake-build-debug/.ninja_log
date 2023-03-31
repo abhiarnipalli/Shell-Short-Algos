@@ -1,0 +1,4 @@
+# ninja log v5
+0	320	1680302360746822608	CMakeFiles/ShellSort.dir/SortTest.cpp.o	20aa9684885996
+0	341	1680302360769571820	CMakeFiles/ShellSort.dir/MySortClass.cpp.o	b1b12043f76ccb44
+341	381	1680302360809974088	ShellSort	5ee06272e2787264
